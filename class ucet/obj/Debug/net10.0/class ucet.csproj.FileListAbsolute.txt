@@ -1,0 +1,14 @@
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/bin/Debug/net10.0/class ucet
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/bin/Debug/net10.0/class ucet.deps.json
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/bin/Debug/net10.0/class ucet.runtimeconfig.json
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/bin/Debug/net10.0/class ucet.dll
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/bin/Debug/net10.0/class ucet.pdb
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/class ucet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/class ucet.AssemblyInfoInputs.cache
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/class ucet.AssemblyInfo.cs
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/class ucet.csproj.CoreCompileInputs.cache
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/class ucet.dll
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/refint/class ucet.dll
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/class ucet.pdb
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/class ucet.genruntimeconfig.cache
+/Users/lindamosna/RiderProjects/ConsoleApp2/class ucet/obj/Debug/net10.0/ref/class ucet.dll
